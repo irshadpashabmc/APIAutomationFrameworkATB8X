@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/MD ISHAQ/IdeaProjects/APIAutomationFrameworkATB8X"><classes><class name="org.irshadpashabmc.tests.CRUD.VerifyCreatedBookingID_TC_001"><methods><include name="VerifyCreatedBookingIDUsingPost"/></methods></class><class name="org.irshadpashabmc.tests.CRUD.VerifyGenerateAuthToken_TC_002"><methods><include name="VerifyAndGenerateAuthToken"/></methods></class></classes></test></suite>
